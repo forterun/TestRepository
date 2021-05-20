@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\forterun\OneDrive\デスクトップ\学校\sample\main.cpp(22): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
-  Project1.vcxproj -> C:\Users\forterun\OneDrive\デスクトップ\学校\sample\x64\Debug\Project1.exe
